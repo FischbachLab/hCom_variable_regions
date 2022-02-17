@@ -1,0 +1,4 @@
+barrnap v0.9 - Seemann T, barrnap 0.9: rapid ribosomal RNA prediction, https://github.com/tseemann/barrnap
+v-xtractor v2 - https://doi.org/10.1016/j.mimet.2010.08.008
+cd-hit v4.8.1 -  "CD-HIT: a fast program for clustering and comparing large sets of protein or nucleotide sequences", Weizhong Li & Adam Godzik. Bioinformatics, (2006) 22:1658-1659
+                 "CD-HIT: accelerated for clustering the next generation sequencing data", Limin Fu, Beifang Niu, Zhengwei Zhu, Sitao Wu & Weizhong Li. Bioinformatics, (2012) 28:3150-3152
